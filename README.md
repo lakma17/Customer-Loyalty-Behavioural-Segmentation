@@ -1,6 +1,6 @@
 ## 📽️ Presentation
 
-👉 **[Open Presentation (PDF)](https://github.com/lakma17/Customer-Loyalty-Behavioural-Segmentation/blob/main/customer%20loyalty%20analysis.pptx)**
+👉 **[Open Presentation (PDF)](https://github.com/lakma17/Customer-Loyalty-Behavioural-Segmentation/blob/main/customer%20loyalty%20analysis.pdf))**
  
 
 python-jupyter-project
