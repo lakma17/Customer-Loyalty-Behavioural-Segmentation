@@ -12,7 +12,7 @@ This study analyses the key drivers of customer loyalty and develops behavioural
 
 Part 2
 ## 📽️ Presentation
-👉 ** [Open Presentation (PDF)]()**
+👉 ** [Open Presentation (PDF)](https://github.com/lakma17/Customer-Loyalty-Behavioural-Segmentation/blob/main/Sentiment_analysis.pdf)**
 
 ### Summary
 This project analyses user reviews and summaries from a gaming platform to understand customer sentiment and key themes. The results show that feedback is generally positive, though mostly mild. Reviews tend to be more detailed and emotionally expressive whereas summaries are shorter, more neutral and often lose some sentiment due to compression. Word frequency analysis highlights gameplay enjoyment as a key theme. About 400 marginal customers identified through K-Means clustering (based on income and spending score) exhibit largely indifferent sentiment, with no strong positive or negative patterns observed.
